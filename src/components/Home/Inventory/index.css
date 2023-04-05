@@ -1,0 +1,26 @@
+.inventory-list-item-container{
+    display:flex;
+    flex: initial;
+    justify-content: space-between;
+    margin: 4px 0;
+    padding: 5px 0;
+}
+
+
+.list-item-button{
+    height: 35px;
+}
+
+.name-container{
+    margin-left: -42px;
+    padding-left: 0;
+}
+
+li{
+    padding-left: 0;
+    text-align: left;
+}
+.bt2{
+    align-self: center;
+    
+}

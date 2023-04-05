@@ -1,0 +1,26 @@
+.navigation-container{
+    width: 30%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding: 15px 25px;
+}
+
+.active{
+    border-left: 4px solid rgb(243, 93, 6);    
+}
+
+.active,.not-active{
+    display: flex;
+    height: 30px;
+}
+
+.navigation-icon-container{
+    padding-top: 2px;
+    margin-right: 4px;
+
+}

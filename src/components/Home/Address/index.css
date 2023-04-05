@@ -1,0 +1,115 @@
+.bg-container{
+    width: 90%;
+}
+
+.from-to-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon-container{
+    align-self:flex-end;
+}
+
+.details-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.estimate-description{
+    color: rgb(243, 93, 6);
+    font-weight: 500;
+}
+
+.triangle{
+    color: rgb(243, 93, 6);
+    margin-right: 10px;
+}
+
+.disclaimer-description{
+    margin-left: 26px;
+}
+
+.home-icon{
+    margin: 3px;
+    padding: 3px;
+    margin-bottom: -4px;
+    color: rgb(243, 93, 6);
+}
+
+.checkbox-container{
+    align-self: center;
+}
+
+.view-more-button{
+    border: 2px solid rgb(243, 93, 6);
+    background: none;
+    padding: 8px 4px;
+    color: rgb(243, 93, 6);
+    margin-right: 10px;
+}
+
+.quotes{
+    border: none;
+    background-color: rgb(243, 93, 6);
+    color: white;
+    padding: 10px 6px;
+}
+
+.button-container{
+    align-self: center;
+}
+
+.old-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px;
+}
+
+.old-container h3{
+    margin-bottom: 2px;
+}
+
+.old-container p{
+    margin-top: 2px;
+}
+
+.additional-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+
+.black-button{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.add-button{
+    padding: 0px 20px;
+    height: 45px;
+}
+
+.existing-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.old-house-heading{
+    margin-bottom: 2px;
+}
+
+.new-house-heading{
+    margin-bottom: 2px;
+}
+.old-house-heading,.new-house-heading{
+    color:rgb(243, 93, 6)
+}
+
+.edit-house-button{
+    padding: 0px 10px;
+}
